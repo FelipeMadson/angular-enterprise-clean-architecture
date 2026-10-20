@@ -1,0 +1,22 @@
+{
+  "name": "angular-enterprise-clean-architecture",
+  "version": "1.0.0",
+  "description": "Production-grade Angular 18 Enterprise Clean Architecture with native Signals and Standalone Components",
+  "scripts": {
+    "ng": "ng",
+    "build": "tsc",
+    "test": "node --test dist/**/*.spec.js"
+  },
+  "author": "Felipe Madison",
+  "license": "MIT",
+  "dependencies": {
+    "@angular/core": "18.2.0",
+    "@angular/common": "18.2.0",
+    "@angular/router": "18.2.0",
+    "rxjs": "7.8.1",
+    "zone.js": "0.14.10"
+  },
+  "devDependencies": {
+    "typescript": "5.4.5"
+  }
+}
