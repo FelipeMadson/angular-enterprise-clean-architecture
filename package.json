@@ -10,7 +10,7 @@
   "author": "Felipe Madison",
   "license": "MIT",
   "dependencies": {
-    "@angular/core": "18.2.0",
+    "@angular/core": "22.2.3",
     "@angular/common": "18.2.0",
     "@angular/router": "18.2.0",
     "rxjs": "7.8.1",
